@@ -49,17 +49,17 @@ Confidential Company Information
 
 ## Results
 
-RSA key pair generated successfully
-Message encrypted successfully
-Secure transmission achieved
-Original message recovered using the private key
+-RSA key pair generated successfully
+-Message encrypted successfully
+-Secure transmission achieved
+-Original message recovered using the private key
 
 ## Applications
-Secure Email Communication
-SSL/TLS Certificates
-Digital Signatures
-Online Banking
-Secure File Transfer
+-Secure Email Communication
+-SSL/TLS Certificates
+-Digital Signatures
+-Online Banking
+-Secure File Transfer
 
 ## Conclusion
 
