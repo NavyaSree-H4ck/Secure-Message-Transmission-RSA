@@ -66,5 +66,3 @@ Confidential Company Information
 This project demonstrates how RSA-2048 asymmetric encryption can be used to securely transmit confidential information over an untrusted network using OpenSSL.
 
 
-
-## ⭐ If you found this project useful, please consider giving it a Star!
