@@ -34,7 +34,7 @@ This project demonstrates secure message transmission using RSA-2048 asymmetric 
 
 The complete project report, including commands, screenshots, observations, and encryption results, is available below.
 
-📄 **Project Report:** [Secure_Message_Transmission_RSA_Report.pdf](Secure_Message_Transmission_RSA_Report.pdf)
+📄 **Project Report:** [Secure-Message-Transmission-RSA.pdf](Secure-Message-Transmission-RSA.pdf)
 
 ## Procedure
 
